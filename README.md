@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [miras](https://miras.fly.dev)
 
-- 🌱 I’m currently learning **NuxtJS**
-
 - 👨‍💻 All of my projects are available at [https://www.ahmed-haz.com/](https://www.ahmed-haz.com/)
 
 - 💬 Ask me about **React, Vue, and their frameworks**
