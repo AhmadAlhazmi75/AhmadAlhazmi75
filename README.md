@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alhazmi</h1>
 <h3 align="center">A passionate fullstack developer from Saudi Arabia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadalhazmi75" alt="ahmadalhazmi75" /></a> </p>
 
 - 🔭 I’m currently working on [miras](https://miras.fly.dev)
 
