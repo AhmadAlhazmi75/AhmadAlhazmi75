@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadalhazmi75" alt="ahmadalhazmi75" /></a> </p>
 
-- 🔭 I’m currently working on [finance-tracker](https://github.com/AhmadAlhazmi75/finance-tracker#finance-tracker)
+- 🔭 I’m currently working on [miras](https://miras.fly.dev)
 
 - 🌱 I’m currently learning **NuxtJS**
 
